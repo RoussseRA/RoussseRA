@@ -18,3 +18,13 @@ Here are some ideas to get you started:
 #   Encabezado 1
 ##  Encabezado 2
 ### Encabezado 3
+
+# Estilos de texto
+**Palabra en negrita**
+*Palabra en cursiva*
+~~Este texto esta equivocado~~
+
+Mi primera línea de código en Python
+```
+print ('Hola, mundo!')
+```
