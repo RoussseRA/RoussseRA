@@ -1,20 +1,17 @@
 ### Hi there 👋
+Mi primera línea de código en Python
+```
+print ('Hola, mundo!')
+```
 
-<!--
-**RoussseRA/RoussseRA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on: My soft skills and practicing responsive web design.
+- 🌱 I’m currently learning: HTML, CSS, JavaScript, Git, Angular and some Frameworks (Bulma and Bootstrap).
+- 👯 I’m looking to collaborate on: Web programming projects in the front-end part.👩🏻
+- 🤔 I’m looking for help with: Ideas to grow my portfolio.
+- 📫 How to reach me: via [LinkedIn](www.linkedin.com/in/maria-rosa-ramírez-arenas) or at the following email: mariarosa.ramirezarenas@gmail.com
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Markdown
+<!--# Markdown
 #   Encabezado 1
 ##  Encabezado 2
 ### Encabezado 3
@@ -22,9 +19,7 @@ Here are some ideas to get you started:
 # Estilos de texto
 **Palabra en negrita**
 *Palabra en cursiva*
-~~Este texto esta equivocado~~
+~~Este texto esta equivocado~~ -->
 
-Mi primera línea de código en Python
-```
-print ('Hola, mundo!')
-```
+
+El markdown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx/)
